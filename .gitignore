@@ -1,0 +1,26 @@
+# Temporary & Lock Files
+~$*
+*.bak
+*.tmp
+*.lck
+*.log
+*.out
+
+# CSI Structural Solver Scratch & Temporary Files (SAP2000 / ETABS)
+*.$2k
+*.$et
+*.ebk
+*.sbk
+*.fmk
+*.t2k
+*.y*
+*.k*
+*.msh
+*.e2k
+
+# OS & Editor Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
