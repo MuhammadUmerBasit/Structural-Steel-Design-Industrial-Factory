@@ -183,8 +183,8 @@ Structural-Steel-Design-Industrial-Factory/
 
 ## 👤 Author & Academic Attribution
 
-- **Structural Designer & Analyst:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
-  *Civil & Structural Engineering*
+- **Student / Author:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
+  *Civil Engineering Student*
 - **Course:** Design of Steel Structures (CEP), Semester 7
 - **Standards:** AISC 360-05/16 LRFD, ASCE 7-05/10
 
